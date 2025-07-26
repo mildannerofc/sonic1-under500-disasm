@@ -39,3 +39,5 @@ Feel free to do but please don't do something identical.
 No, just no. There are Mildanner's modifications, you can only use the code fixes and improvements.
 ## Which is the program to edit palette in easy way?
 Just use [HivePal](https://forums.sonicretro.org/threads/hivepal-v2-2.39564/).
+## How do I learn ASM coding?
+Just read the [assembly guide](https://mrjester.hapisan.com/04_MC68/) made by MarkeyJester.

@@ -1,0 +1,24 @@
+Operating system: Microsoft Windows NT 6.2.9200.0
+Opening INI file "C:\Users\Lucas\Documents\Sonic Disassembly\s1disasm-asm68k\Sonic 1 Under 500 Disassembly\SonLVL INI Files\SonLVL.ini"...
+Game type is S1.
+Loading Green Hill Zone Act 1...
+Loading palette file "../palette/Sonic.bin"...
+Source: 0 Destination: 0 Length: 16
+Loading 8x8 tiles from file "../artnem/8x8 - GHZ1.bin", using compression Nemesis...
+Loading palette file "../palette/Green Hill Zone.bin"...
+Source: 0 Destination: 16 Length: 48
+Loading 8x8 tiles from file "../artnem/8x8 - GHZ2.bin", using compression Nemesis...
+System.AggregateException: Um ou mais erros. ---> System.FormatException: Level must contain Mappings file!
+   em SonicRetro.SonLVL.SonPLN.MainForm.LoadLevelLayout() na C:\Programs\SonLVL\SonPLN\MainForm.cs:linha 396
+   em System.Threading.Tasks.Task.InnerInvoke()
+   em System.Threading.Tasks.Task.Execute()
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Threading.Tasks.Task.FastWaitAll(Task[] tasks)
+   em System.Threading.Tasks.Parallel.Invoke(ParallelOptions parallelOptions, Action[] actions)
+   em System.Threading.Tasks.Parallel.Invoke(Action[] actions)
+   em SonicRetro.SonLVL.SonPLN.MainForm.backgroundLevelLoader_DoWork(Object sender, DoWorkEventArgs e) na C:\Programs\SonLVL\SonPLN\MainForm.cs:linha 323
+---> (Exceção Interna N° 0) System.FormatException: Level must contain Mappings file!
+   em SonicRetro.SonLVL.SonPLN.MainForm.LoadLevelLayout() na C:\Programs\SonLVL\SonPLN\MainForm.cs:linha 396
+   em System.Threading.Tasks.Task.InnerInvoke()
+   em System.Threading.Tasks.Task.Execute()<---
+

@@ -37,3 +37,5 @@ Please give credit if you are using these files (Example: Music, Code and Palett
 Feel free to do but please don't do something identical.
 ## This disassembly helps me to make my own ROM Hack?
 No, just no. There are Mildanner's modifications, you can only use the code fixes and improvements.
+## Which is the program to edit palette in easy way?
+Just use HivePal [(Click on me)](https://forums.sonicretro.org/threads/hivepal-v2-2.39564/).

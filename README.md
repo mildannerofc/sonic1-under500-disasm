@@ -33,5 +33,5 @@ Original disassembly by Sonic Retro.
 * You - Player
 
 Please give credit if you are using these files (Example: Music, Code and Palette).
-# Can I study this disassembly fixes?
-Feel free to do.
+## Can I study this disassembly fixes?
+Feel free to do but please don't do something identical.

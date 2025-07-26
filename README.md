@@ -11,7 +11,7 @@ Original disassembly by Sonic Retro.
 * Esrael - Sonic 2 Level Select
 * Hame - Green Hill Zone Camera Fix
 * Selbi - Sonic 1 Text Code Generator
-* Kilo - Fixing Debug Mode
+* Kilo - Fixing Debug Mode Position
 * Flex2 - Some Sprite Edits, Palette and Recreation
 * OpenMPT by Olivier Lapicque
 * SomeUser214 - Guide of Restoring Sonic 1 BETA Drums

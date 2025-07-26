@@ -33,6 +33,7 @@ Original disassembly by Sonic Retro.
 * You - Player
 
 Please give credit if you are using these files (Example: Music, Code and Palette).
+# Frequently Asked Questions
 ## Can I study this disassembly fixes?
 Feel free to do but please don't do something identical.
 ## This disassembly helps me to make ROM Hack and I can use this disassembly?

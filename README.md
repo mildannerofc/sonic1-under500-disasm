@@ -31,3 +31,7 @@ Original disassembly by Sonic Retro.
 * SMPSConv by Valley Bell
 * vgm2smps by Ivan YO
 * You - Player
+
+Please give credit if you are using these files (Example: Music, Code and Palette).
+# Can I study this disassembly fixes?
+Feel free to do.

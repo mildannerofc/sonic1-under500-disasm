@@ -34,6 +34,7 @@ Original disassembly by Sonic Retro.
 
 Please give credit if you are using these files (Example: Music, Code and Palette).
 # Frequently Asked Questions
+Here are questions related to Sonic 1 Under 500 Disassembly and ROM Hack.
 ## Can I study this disassembly fixes?
 Feel free to do but please don't do something identical.
 ## This disassembly helps me to make ROM Hack and I can use this disassembly?

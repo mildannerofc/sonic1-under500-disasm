@@ -1,11 +1,5 @@
-s1disasm_git
-============
+# Sonic 1 - Under 500 Disassembly
 
-The very latest Sonic 1 Disassembly.
+A ROM Hack made by Mildanner with modifications, improved debug mode and some bug fixes. Including Error Handler.
 
-See: http://info.sonicretro.org/Disassemblies
-
-DISCLAIMER:
-Any and all content presented in this repository is presented for informational and educational purposes only.
-Commercial usage is expressly prohibited. Sonic Retro claims no ownership of any code in these repositories.
-You assume any and all responsibility for using this content responsibly. Sonic Retro claims no responsibiliy or warranty.
+Original disassembly by Sonic Retro.

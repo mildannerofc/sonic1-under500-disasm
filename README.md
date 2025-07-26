@@ -42,6 +42,6 @@ No, just no. There are Mildanner's modifications, you can only use the code fixe
 ## Which is the program to edit palette in easy way?
 Just use [HivePal](https://forums.sonicretro.org/threads/hivepal-v2-2.39564/).
 ## Does this disassembly works with Linux?
-Depending on how MIldanner installed Error Handler in it.
+Depending on how Mildanner installed Error Handler in it.
 ## How do I learn ASM coding?
 Just read the [assembly guide](https://mrjester.hapisan.com/04_MC68/) made by MarkeyJester.

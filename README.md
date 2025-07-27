@@ -43,6 +43,8 @@ You can find the sprite sheet on Spriters Resource in [(Click on me)](https://ww
 No, just no. There are Mildanner's modifications, you can only use the code fixes and improvements.
 ## Which is the program to edit palette in easy way?
 Just use [HivePal](https://forums.sonicretro.org/threads/hivepal-v2-2.39564/).
+## Can I recreate this disassembly in Sonic Clean Engine?
+You are free to, but please use Sonic 1 in Sonic 3 S.C.E with Clone Driver for better results.
 ## Does this disassembly works with Linux?
 Depending on how Mildanner installed Error Handler in it.
 ## How do I learn ASM coding?

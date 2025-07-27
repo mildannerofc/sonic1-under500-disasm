@@ -37,6 +37,8 @@ Please give credit if you are using these files (Example: Music, Code and Palett
 Here are questions related to Sonic 1 Under 500 Disassembly and ROM Hack.
 ## Can I study this disassembly fixes?
 Feel free to do but please don't do something identical.
+## Where do I find the sprites used for Sonic?
+You can find the sprite sheet on Spriters Resource in [(Click on me)](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/sheet/95696/). Remember to credit the sprite creators of the sheet before using it in your ROM Hack.
 ## This disassembly helps me to make ROM Hack and I can use this disassembly?
 No, just no. There are Mildanner's modifications, you can only use the code fixes and improvements.
 ## Which is the program to edit palette in easy way?

@@ -42,7 +42,7 @@ You can find the sprite sheet on Spriters Resource in [(Click on me)](https://ww
 ## This disassembly helps me to make ROM Hack and I can use this disassembly?
 No, just no. There are Mildanner's modifications, you can only use the code fixes and improvements.
 ## Can I recreate this disassembly in Sonic Clean Engine?
-You are free to do, but please use Sonic 1 in Sonic 3 S.C.E with Clone Driver for better results.
+You are free to do, but please use [Sonic 1 in Sonic 3 S.C.E](https://github.com/TheBlad768/Sonic-1-in-Sonic-3-S.C.E.-) with [Clone Driver](https://github.com/TheBlad768/Sonic-1-in-Sonic-3-S.C.E.-/tree/Clone-Driver-v2) for better results.
 ## Which is the program to edit palette in easy way?
 Just use [HivePal](https://forums.sonicretro.org/threads/hivepal-v2-2.39564/).
 ## Does this disassembly works with Linux?

@@ -41,10 +41,10 @@ Feel free to do but please don't do something identical.
 You can find the sprite sheet on Spriters Resource in [(Click on me)](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/sheet/95696/). Remember to credit the sprite creators of the sheet before using it in your ROM Hack.
 ## This disassembly helps me to make ROM Hack and I can use this disassembly?
 No, just no. There are Mildanner's modifications, you can only use the code fixes and improvements.
+## Can I recreate this disassembly in Sonic Clean Engine?
+You are free to do, but please use Sonic 1 in Sonic 3 S.C.E with Clone Driver for better results.
 ## Which is the program to edit palette in easy way?
 Just use [HivePal](https://forums.sonicretro.org/threads/hivepal-v2-2.39564/).
-## Can I recreate this disassembly in Sonic Clean Engine?
-You are free to, but please use Sonic 1 in Sonic 3 S.C.E with Clone Driver for better results.
 ## Does this disassembly works with Linux?
 Depending on how Mildanner installed Error Handler in it.
 ## How do I learn ASM coding?

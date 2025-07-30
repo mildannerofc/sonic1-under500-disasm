@@ -9336,7 +9336,7 @@ ObjPos_Null:	dc.b $FF, $FF, 0, 0, 0,	0
 SoundDriver:	include "s1.sounddriver.asm"
 
 ; end of 'ROM'
-    SHC:    incbin "SHC_Sonic12.bin"
+    SHC:    incbin "SHC_Splash.bin"
 		even
 ; ==============================================================
 ; --------------------------------------------------------------

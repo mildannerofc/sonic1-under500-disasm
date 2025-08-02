@@ -13,23 +13,20 @@ Original disassembly by Sonic Retro.
 * Selbi - Sonic 1 Text Code Generator
 * Kilo - Fixing Debug Mode Position
 * Flex2 - Some Sprite Edits, Palette and Recreation
-* OpenMPT by Olivier Lapicque
 * SomeUser214 - Guide of Restoring Sonic 1 BETA Drums
 * Sonic Sprite - Shinbaloonba, Dolphman, Glitchy, TheGoku7729
 * PeanutNoceda - Idea for Life Counter HUD
 * Title Screen Font - Streets of Rage 2
-* Fixing Spike Bug Guide by FraGag
+* FraGag - Fixing Spike Bug Guide
 * Hivepal - Palette Editing
 * Puto and Nineko - Fixing/Disabling Speed Cap
-* Furnace Tracker by tildearrow
 * chobocoda - Extending Title Screen Delay
 * smps2asm by Flamewing
 * SSRG and Sonic Retro - Guides and Code Helping
 * SoullessSentinel - Sonic 2 Font for Sonic 1 Level Select Debug Mode
+* More Music - Cinossu, Nineko, MDTravis, DarkShamilKhan, ConiNight, JX
 * Nineko - Implementing Eggman Monitor Functional
-* More Music - Cinossu, Nineko, MDTravis, DarkShamilKhan, RRad Music, ConiNight, JX
 * SMPSConv by Valley Bell
-* vgm2smps by Ivan YO
 * You - Player
 
 Please give credit if you are using these files (Example: Music, Code and Palette).

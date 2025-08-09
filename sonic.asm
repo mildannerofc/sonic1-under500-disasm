@@ -1,8 +1,9 @@
 ;  =========================================================================
-; |           Sonic the Hedgehog Disassembly for Sega Mega Drive            |
+; |                   Sonic 1 - Under 500 by Mildanner                      |
 ;  =========================================================================
 ;
-; Disassembly created by Hivebrain
+; Original disassembly created by Hivebrain
+; Sonic 1 GitHub ASM68K by Sonic Retro
 ; thanks to drx, Stealth and Esrael L.G. Neto
 
 ; ===========================================================================

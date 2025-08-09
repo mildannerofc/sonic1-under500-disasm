@@ -1,5 +1,9 @@
 @echo off
 
+echo ======================================
+echo Sonic 1 - Under 500 is building...
+echo ======================================
+
 IF EXIST s1built.bin move /Y s1built.bin s1built.prev.bin >NUL
 rem RELEASE BUILD
 asm68k /k /m /o ws+ /o op+ /o os+ /o ow+ /o oz+ /o oaq+ /o osq+ /o omq+ /o ae- /o v+ /o c+ /p sonic.asm, s1built.bin, s1built.sym, sonic.lst

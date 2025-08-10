@@ -4,7 +4,7 @@ A ROM Hack made by Mildanner with modifications, improved debug mode and some bu
 
 Original disassembly by Sonic Retro.
 # Credits
-* Mildanner A.K.A HupDanisson - Leader Creator, Art, Music and Palette Editing
+* Mildanner - Leader Creator, Art, Music and Palette Editing
 * MainMemory - SonLVL, SonPLN, S1SSEdit
 * Vladikcomper - Error Handler
 * Mercury - Debug Mode Fix
